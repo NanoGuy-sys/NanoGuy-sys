@@ -1,1 +1,1 @@
-worker: python Belgium.py
+worker: python3 Belgium.py
